@@ -1,3 +1,5 @@
+﻿#testing
+
 # -*- coding: utf-8 -*-
 """
 DCGAN Tutorial
